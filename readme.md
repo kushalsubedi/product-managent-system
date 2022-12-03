@@ -14,4 +14,7 @@ pip install -r requirements.txt
 python manage.py runserver 
 
 ```
+![logged in image](./scsots/Screenshot%20from%202022-12-03%2018-02-02.png)
+
+![logout image](./scsots/Screenshot%20from%202022-12-03%2018-02-30.png)
 
